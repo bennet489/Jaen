@@ -28,3 +28,40 @@ This is a simple and secure **User Authentication API** built with **Node.js** a
 
    ```bash
    git clone https://github.com/bennet489/jaen
+
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Jaen
+
+   ```
+
+3. Install the dependencies:
+   '''bash
+   npm install
+
+4. Set up environment variables:
+
+## Create a .env file in the root directory with the following content:
+
+```bash
+DB_URI=mongodb://localhost:5000/authentication-api
+PORT=5000
+SECRET_ACCESS_TOKEN=your_secret_key
+```
+
+5. Start the server:
+
+   ```bash
+   npm start
+
+   ```
+
+6. The server should now be running on http://localhost:5000.
+
+# Contact Me
+
+For any inquiries or issues, feel free to reach out to me at
+bennetasare@outlook.com
