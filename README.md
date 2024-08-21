@@ -39,8 +39,11 @@ This is a simple and secure **User Authentication API** built with **Node.js** a
    ```
 
 3. Install the dependencies:
-   '''bash
+
+   ```bash
    npm install
+
+   ```
 
 4. Set up environment variables:
 
