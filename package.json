@@ -1,5 +1,5 @@
 {
-  "name": "authenticate",
+  "name": "Jaen",
   "version": "1.0.0",
   "description": "A simple authentication mechanism with JWT, Express.js, Mongodb",
   "main": "index.js",
